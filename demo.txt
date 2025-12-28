@@ -22,3 +22,26 @@ You can include:
 ------------------------
 End of File
 ------------------------
+ Demo File (demo.txt)
+========================
+
+Title: Sample Demo
+Author: Ajay
+Date: 28-Dec-2025
+
+------------------------
+Content:
+------------------------
+This is a sample demo text file.
+It is created to show how a basic
+.txt file might be structured.
+
+You can include:
+- Headings
+- Lists
+- Notes
+- Any plain text content
+
+------------------------
+End of File
+---------------------
